@@ -135,6 +135,7 @@ footer div#trabajos{
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
+  background-color: whitesmoke;
   border-radius: 35px;
   border: black solid 1px;
 }
