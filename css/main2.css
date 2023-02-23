@@ -115,7 +115,7 @@ footer div#info{
   border: black solid 1px;
   justify-content: center;
   align-items: center;
-  background-image: url("../info.png");
+  background-image: url("https://github.com/Juanseeeee/CV.github.io/blob/e91009d1ee21f886bc2b7025205256ea41eac095/Images/contacto.png");
   background-color: whitesmoke;
   background-repeat: no-repeat;
   background-size: 50%;
@@ -147,7 +147,7 @@ footer div#contacto{
   height: 90%;
   justify-content: center;
   align-items: center;
-  background-image: url("../contacto.png");
+  background-image: url("https://github.com/Juanseeeee/CV.github.io/Images/contacto.png");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
